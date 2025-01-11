@@ -23,6 +23,7 @@ This project is a humorous twist on a traditional login page. The login button h
 
 1. The `hover` pseudo-class in Tailwind CSS is utilized to detect when the mouse is over the login button.
 2. Custom Tailwind classes are applied to reposition the button randomly whenever a hover event occurs.
+3. JavaScript detects the hover event on the "Login" button.
 
 ---
 
