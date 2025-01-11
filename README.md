@@ -16,6 +16,7 @@ This project is a humorous twist on a traditional login page. The login button h
 
 - **HTML**: For structuring the page.
 - **Tailwind CSS**: For styling and responsive design.
+- **JS**:For detects the hover.
 
 ---
 
@@ -28,4 +29,4 @@ This project is a humorous twist on a traditional login page. The login button h
 ---
 
 
-   git clone https://github.com/<your-username>/funny-login-page.git
+  
